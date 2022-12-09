@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBAction func buttonAction(_ sender: Any) {
-        print("This is a Git tutorial")
+        print("You finished!")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
